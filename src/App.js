@@ -9,7 +9,7 @@ export default function App() {
         <footer>
           Please check my open source code {""}
           <a
-            href="https://github.com/Tasha-berezhko/react-weater-project-app"
+            href="https://github.com/Tasha-berezhko/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
